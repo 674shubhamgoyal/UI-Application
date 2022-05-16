@@ -1,0 +1,12 @@
+com\nagarro\entity\User.class
+com\nagarro\model\Book.class
+com\nagarro\service\impl\UserServiceImpl.class
+com\nagarro\dao\UserDao.class
+com\nagarro\service\impl\BookServiceImpl.class
+com\nagarro\service\impl\GetAuthorServiceImpl.class
+com\nagarro\controller\MainController.class
+com\nagarro\service\GetAuthorService.class
+com\nagarro\service\UserService.class
+com\nagarro\service\BookService.class
+com\nagarro\dao\UserDaoImpl.class
+com\nagarro\model\Author.class
